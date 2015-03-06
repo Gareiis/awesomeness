@@ -1,0 +1,2 @@
+//used after you download bower
+sudo ln -s /usr/bin/nodejs /usr/bin/node
